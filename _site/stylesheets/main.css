@@ -119,10 +119,10 @@ a {
     top: 2.5em;
     z-index: 2; }
 
-  #home h1 p {
+  #intro-text h1 p {
     font-size: 42px;
     font-weight: 400; }
-  #home h1 strong {
+  #intro-text h1 strong {
     font-size: 46px; } }
 @media (min-width: 768px) and (max-width: 1023px) {
   #menu-button {
@@ -132,10 +132,10 @@ a {
     top: 2.5em;
     z-index: 2; }
 
-  #home h1 p {
+  #intro-text h1 p {
     font-size: 38px;
     font-weight: 400; }
-  #home h1 strong {
+  #intro-text h1 strong {
     font-size: 42px; } }
 @media (min-width: 320px) and (max-width: 767px) {
   #menu-button {
@@ -145,10 +145,10 @@ a {
     top: 2.5em;
     z-index: 2; }
 
-  #home h1 p {
+  #intro-text h1 p {
     font-size: 30px;
     font-weight: 400; }
-  #home h1 strong {
+  #intro-text h1 strong {
     font-size: 34px; }
 
   #contact button {
