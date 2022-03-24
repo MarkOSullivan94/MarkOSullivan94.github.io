@@ -420,7 +420,7 @@ $("document").ready(function() {
 
 function handleTyping () {
     $(".element").typed({
-        strings: ["I'm an Android Engineer at Argent.", "I'm a fan of Flutter.", "I'm bullish about cryptocurrency.", "I also accept Bitcoin donations . . .", ],
+        strings: ["I'm a software engineer and consultant.", "I love building mobile apps with Flutter.", "I'm bullish about cryptocurrency.", "I also accept ETH donations . . .", ],
         typeSpeed: 50,
         starDelay: 200,
         backDelay: 600,
